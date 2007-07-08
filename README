@@ -1,0 +1,25 @@
+Wx/Data
+===============================
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+MORE INFO
+
+Wx::Data makes it easier to create wxPerl data-aware controls.
+
+Those controls are also filled in asynchrounously thanks to POE.
+
+That means you have to use POE in your Wx application though.
+
+Hopefully, more to come soon.
+
+Thanks
+
+Eriam
